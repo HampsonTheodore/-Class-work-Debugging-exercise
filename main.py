@@ -19,7 +19,7 @@ myName =input("Enter your name: ")
 
 print(f"Hello {myName}")
 
-# code 2
+#code 2
 #Counting to 100
 #This program should display the numbers from 1 to 100
 
