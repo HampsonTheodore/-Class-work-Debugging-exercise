@@ -1,4 +1,4 @@
-# It this exercise, I am going to debug each line of code and explain whhats wrong with it.
+# In this exercise, I am going to debug each line of code and explain whhats wrong with it.
 
 #Code 1
 #1. What's your Name?
